@@ -11,12 +11,12 @@
 [![eLys](https://img.shields.io/badge/Site-eLys-pink.svg)](https://eLysiane.eu/)
 [![Tornado](https://img.shields.io/badge/NOVA-Tornado%20Cash-brightgreen.svg)](https://img.shields.io/badge/-available%20/09/2022-lightgrey)
 <br>
-[![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=AeX03.eLys&left_color=gray&right_color=purple&left_text=New%20Visitors%20Today)](https://github.com/ELYSTV)
+[![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=AeX03.ELYSTV&left_color=gray&right_color=purple&left_text=New%20Visitors%20Today)](https://github.com/ELYSTV)
 
 ## Start Project
 
 ## Preview (no finish in develope)
-![Launcher](https://github.com/AeX03/ELYSTV)
+![DASH](https://github.com/AeX03/ELYSTV/blob/main/assets/ELYSTVDash.png)
 
 ## Supporters
 [![Stargazers repo roster for @AeX03/ELYSTV](https://reporoster.com/stars/dark/AeX03/ELYSTVELYSTV)](https://github.com/AeX03/ELYSTVELYSTV/stargazers)
