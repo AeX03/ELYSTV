@@ -15,8 +15,9 @@
 
 ## Start Project
 
-## Preview (no finish in develope)
-![DASH](https://github.com/AeX03/ELYSTV/blob/main/assets/ELYSTVDash.png)
+## Preview (no finish in develope) Mode : Day/Night
+![DASH WHITE](https://github.com/AeX03/ELYSTV/blob/main/assets/ELYSTVDash.png)
+![DASH BLACK](https://github.com/AeX03/ELYSTV/blob/main/assets/ELYSTVDASH2.png)
 
 ## Supporters
 [![Stargazers repo roster for @AeX03/ELYSTV](https://reporoster.com/stars/dark/AeX03/ELYSTVELYSTV)](https://github.com/AeX03/ELYSTVELYSTV/stargazers)
